@@ -6,3 +6,5 @@ file description
      a matrix stores the node data, including x-y coordnates and pv (potential values). PV can be interpreted as the priority in routing process.
   3. testAC.m
      load the data and perform a simple ACO to solve routing problems.
+
+Note: This is just a simple demo with the basic framework of ACO.
